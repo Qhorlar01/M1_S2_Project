@@ -22,6 +22,7 @@ This project aims to develop a three-phase voltage source inverter (VSI) using S
 ### 1. Output Waveforms Without Filter
 | **Current THD (68.76%)** | **Voltage THD (68.76%)** |
 |--------------------------|--------------------------|
+| ![Current THD](SPWM_3PHASE_INVERTER/current THD.png) | ![Voltage THD](images/Figure11.png) |
 | ![Current THD](images/Figure10.png) | ![Voltage THD](images/Figure11.png) |
 
 ### 2. Output Waveforms After LC Filter Application
