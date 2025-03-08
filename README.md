@@ -29,8 +29,9 @@ This project aims to develop a three-phase voltage source inverter (VSI) using S
 | **Current THD (3.88%)** | **Voltage THD (13.85%)** |
 |-------------------------|--------------------------|
 | ![Filtered Current](SPWM_3PHASE_INVERTER/currentTHDreduced.png) | ![Filtered Voltage](SPWM_3PHASE_INVERTER/voltageTHDreduced.png) |
+| ![Filtered Current waveform](SPWM_3PHASE_INVERTER/outputcurrentfiltered.png) | ![Filtered Voltage waveform](SPWM_3PHASE_INVERTER/outputvoltagefiltered.png) |
 
 ### 3. SPWM Signals and Hardware Setup
 | **PWM Signals for IGBT Gates** | **Lab Setup** |
 |--------------------------------|---------------|
-| ![PWM Signals](images/Figure16.png) | ![Lab Setup](images/Figure7.png) |
+| ![PWM Signals](SPWM_3PHASE_INVERTER/PWMSignals.png) | ![Lab Setup](SPWM_3PHASE_INVERTER/LabSetUp.png) |
